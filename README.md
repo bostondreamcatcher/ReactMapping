@@ -1,2 +1,0 @@
-# ReactMapping
-Created with CodeSandbox
